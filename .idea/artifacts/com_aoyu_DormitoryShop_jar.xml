@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="com.aoyu.DormitoryShop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/com_aoyu_DormitoryShop_jar</output-path>
+    <root id="root">
+      <element id="archive" name="com.aoyu.DormitoryShop.jar">
+        <element id="module-output" name="com.aoyu.DormitoryShop" />
+      </element>
+    </root>
+  </artifact>
+</component>

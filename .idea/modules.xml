@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DormitoryShop.iml" filepath="$PROJECT_DIR$/DormitoryShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.aoyu.DormitoryShop/com.aoyu.DormitoryShop.iml" filepath="$PROJECT_DIR$/com.aoyu.DormitoryShop/com.aoyu.DormitoryShop.iml" />
+    </modules>
+  </component>
+</project>
